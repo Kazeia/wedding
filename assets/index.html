@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Formulario PSD a HTML</title>
+	<style type="text/css">
+	body{
+		background: url(bg.jpg) top center repeat-x #a4d1bc;
+	}
+	.contenedor{
+		margin:0 auto;
+		width:416px;
+		height:522px;
+		background:#f9f1ed;
+		margin-top: 6%;
+		box-shadow: 0 0 5px .5px black;
+	}
+	.encabezado{
+		font-size:18pt;
+		font-family: Arial, Helvetica, sans-serif;
+		text-transform: capitalize;
+		color: white;
+		text-shadow: 0 1px  5px black;
+		text-align:center;
+		background: url(hform.jpg) repeat;
+		height:53px;
+		line-height: 53px;
+		
+	}
+	input{
+		margin:15px;
+		width:331px;
+		height:50px;
+		font-size:14pt;
+		border-radius:5px;
+		border:none;
+		box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+		font-weight:bold;
+		color:#90bf7f;
+	}
+	input[type="text"]{
+		text-align:center;
+		background:url(icon-nombre.png) no-repeat;
+		background-position: 10px ;
+	}
+	input[type="Email"]{
+		color:#e07361;
+		text-align:center;
+		background:url(icon-correo.png) no-repeat;
+		background-position: 10px ;
+
+	}
+	input[type="submit"]{
+		width:120px;
+		height:36px;
+		border-radius:5px ;
+		cursor: pointer;
+		background: url(hform.jpg) repeat;
+		font-size:13px;
+		color:white;
+		text-shadow: 0 1px  5px black;
+		margin-right:40px;
+		float:right;
+	}
+	textarea{
+		width:331px;
+		height:138px;
+		border-radius:5px;
+		border:none;
+		box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+		font-size:14pt;
+		text-align:center;
+		font-family:Arial, Helvetica, sans-serif;
+		font-weight:bold;
+		color:#90bf7f;
+		background:url(icon-mensaje.png) no-repeat;
+		background-position: 10px ;
+	}
+	.formulario{
+		text-align:center;
+		padding-top:27px;
+
+	}
+	.divisor{
+		margin-top:40px;
+		background:url("divisor.png");
+		width:416px;
+		height:1px;
+	}
+	</style>
+</head>
+<body>
+	<div class="contenedor">
+		<div class="encabezado">
+				Formulario de contacto
+			</div>
+		<div class="formulario">
+		<form action="#" method="post">
+			<input type="text" placeholder="Escriba su Nombre" required><br>
+			<input type="Email" placeholder="Escriba su Email" required><br>
+			<textarea placeholder="Escriba su Mensaje"></textarea><br>
+			<div class="divisor"></div>
+			<input type="submit" value="Enviar Mensaje">
+		</form>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,49 @@
+#u5673
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	background-size: contain !important;
+}
+
+#u5672-4
+{
+	color: #B1ABAB;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u5674,#u5675
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	position: relative;
+	background-size: cover !important;
+}
+
+#u5806
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u5676-4
+{
+	color: #ADA5A5;
+	font-size: 11px;
+	position: relative;
+}
+

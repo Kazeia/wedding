@@ -1,0 +1,117 @@
+<manifest alg="2" build="8" opt="false">
+  <folder name="css">
+    <file name="site_global.css" crc="89652228"/>
+    <file name="master_pagina-b.css" crc="168446777" ref="inicio-mariadelpilar"/>
+    <file name="master_pagina-a.css" crc="163709856" ref="fullwedding-mariadelpilar:contacto-mariadelpilarr:partialwedding-mariadelpilar:galeria-mariadelpilar:nosotros-mariadelpilar:servicios-mariadelpilar:weddingday-mariadelpilard"/>
+    <file name="fullwedding-mariadelpilar.css" crc="446188973" ref="fullwedding-mariadelpilar"/>
+    <file name="contacto-mariadelpilarr.css" crc="484892600" ref="contacto-mariadelpilarr"/>
+    <file name="partialwedding-mariadelpilar.css" crc="4284860904" ref="partialwedding-mariadelpilar"/>
+    <file name="index.css" crc="159934868" ref="index"/>
+    <file name="galeria-mariadelpilar.css" crc="141148409" ref="galeria-mariadelpilar"/>
+    <file name="nosotros-mariadelpilar.css" crc="203746620" ref="nosotros-mariadelpilar"/>
+    <file name="inicio-mariadelpilar.css" crc="187780443" ref="inicio-mariadelpilar"/>
+    <file name="servicios-mariadelpilar.css" crc="101303854" ref="servicios-mariadelpilar"/>
+    <file name="weddingday-mariadelpilard.css" crc="3768183444" ref="weddingday-mariadelpilard"/>
+  </folder>
+  <folder name="assets">
+    <file name="index.html" crc="488815472" mt="1340662493000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="inicio-mariadelpilar:nosotros-mariadelpilar:index:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+    <file name="museutils.js" crc="4076886207" ref="inicio-mariadelpilar:nosotros-mariadelpilar:index:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+    <file name="pie.js" crc="4067523484" ref="inicio-mariadelpilar:nosotros-mariadelpilar:index:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4095828644" ref="inicio-mariadelpilar:nosotros-mariadelpilar:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="inicio-mariadelpilar:nosotros-mariadelpilar:index:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+    <file name="webpro.js" crc="4027400531" ref="nosotros-mariadelpilar:galeria-mariadelpilar"/>
+    <file name="musewpslideshow.js" crc="355959496" ref="nosotros-mariadelpilar:galeria-mariadelpilar"/>
+    <file name="jquery.museoverlay.js" crc="473466419" ref="nosotros-mariadelpilar:galeria-mariadelpilar"/>
+    <file name="touchswipe.js" crc="4156838003" ref="nosotros-mariadelpilar:galeria-mariadelpilar"/>
+    <file name="jquery.musemenu.js" crc="4103303034" ref="nosotros-mariadelpilar:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+  </folder>
+  <folder name="images">
+    <file name="vector-fondo-negro2.jpg" crc="390850512" ref="inicio-mariadelpilar:nosotros-mariadelpilar:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+    <file name="primera.jpg" crc="414498450" ref="inicio-mariadelpilar"/>
+    <file name="primera1.jpg" crc="4234295701" ref="inicio-mariadelpilar"/>
+    <file name="segunda.jpg" crc="4126583075" ref="inicio-mariadelpilar"/>
+    <file name="segunda2.jpg" crc="56721649" ref="inicio-mariadelpilar"/>
+    <file name="tercera.jpg" crc="4212794567" ref="inicio-mariadelpilar"/>
+    <file name="tercera3.jpg" crc="54003608" ref="inicio-mariadelpilar"/>
+    <file name="quinta.jpg" crc="4254294780" ref="inicio-mariadelpilar"/>
+    <file name="quinta5.jpg" crc="4132437268" ref="inicio-mariadelpilar"/>
+    <file name="mariapili-u334-fr.jpg" crc="404099086" ref="nosotros-mariadelpilar"/>
+    <file name="mision-vision.jpg" crc="3858646602" ref="nosotros-mariadelpilar"/>
+    <file name="monasterio-de-espino-bodas-fotos-050-u350-fr.jpg" crc="39269725" ref="nosotros-mariadelpilar"/>
+    <file name="blank.gif" crc="4208392903" ref="nosotros-mariadelpilar:galeria-mariadelpilar"/>
+    <file name="u288.png" crc="284805319" ref="nosotros-mariadelpilar"/>
+    <file name="u288-r.png" crc="337733434" ref="nosotros-mariadelpilar"/>
+    <file name="u288-a.png" crc="337733434" ref="nosotros-mariadelpilar"/>
+    <file name="u284.png" crc="3769163882" ref="nosotros-mariadelpilar"/>
+    <file name="u284-r.png" crc="65936475" ref="nosotros-mariadelpilar"/>
+    <file name="u284-a.png" crc="65936475" ref="nosotros-mariadelpilar"/>
+    <file name="u286.png" crc="4031999908" ref="nosotros-mariadelpilar"/>
+    <file name="u286-r.png" crc="4125410139" ref="nosotros-mariadelpilar"/>
+    <file name="u286-a.png" crc="4125410139" ref="nosotros-mariadelpilar"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="nosotros-mariadelpilar:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="nosotros-mariadelpilar:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+    <file name="logo-curvas-01.png" crc="4027437873" ref="index:nosotros-mariadelpilar"/>
+    <file name="recien-casados-u4454-fr.jpg" crc="133369358" ref="servicios-mariadelpilar"/>
+    <file name="servicio-tortas3-u3688-fr.jpg" crc="4292838404" ref="partialwedding-mariadelpilar"/>
+    <file name="box 6-u3703-fr.jpg" crc="313995195" ref="weddingday-mariadelpilard"/>
+    <file name="172x45.jpg" crc="3952991710" ref="galeria-mariadelpilar"/>
+    <file name="272x45.jpg" crc="3968686862" ref="galeria-mariadelpilar"/>
+    <file name="372x45.jpg" crc="100420288" ref="galeria-mariadelpilar"/>
+    <file name="472x45.jpg" crc="171861834" ref="galeria-mariadelpilar"/>
+    <file name="572x45.jpg" crc="4157727625" ref="galeria-mariadelpilar"/>
+    <file name="672x45.jpg" crc="4203233177" ref="galeria-mariadelpilar"/>
+    <file name="760x46.jpg" crc="4266046036" ref="galeria-mariadelpilar"/>
+    <file name="860x46.jpg" crc="3793751024" ref="galeria-mariadelpilar"/>
+    <file name="968x45.jpg" crc="4034193946" ref="galeria-mariadelpilar"/>
+    <file name="1068x45.jpg" crc="4173938860" ref="galeria-mariadelpilar"/>
+    <file name="1185x45.jpg" crc="309342731" ref="galeria-mariadelpilar"/>
+    <file name="1260x46.jpg" crc="3934580779" ref="galeria-mariadelpilar"/>
+    <file name="1.jpg" crc="233249878" ref="galeria-mariadelpilar"/>
+    <file name="2.jpg" crc="486168466" ref="galeria-mariadelpilar"/>
+    <file name="3.jpg" crc="209362105" ref="galeria-mariadelpilar"/>
+    <file name="4.jpg" crc="4003058663" ref="galeria-mariadelpilar"/>
+    <file name="5.jpg" crc="4276385483" ref="galeria-mariadelpilar"/>
+    <file name="6.jpg" crc="3906830528" ref="galeria-mariadelpilar"/>
+    <file name="7.jpg" crc="207499439" ref="galeria-mariadelpilar"/>
+    <file name="8.jpg" crc="279686085" ref="galeria-mariadelpilar"/>
+    <file name="9.jpg" crc="4049814447" ref="galeria-mariadelpilar"/>
+    <file name="10.jpg" crc="60449521" ref="galeria-mariadelpilar"/>
+    <file name="11.jpg" crc="3773765056" ref="galeria-mariadelpilar"/>
+    <file name="12.jpg" crc="110210167" ref="galeria-mariadelpilar"/>
+    <file name="loading.gif" crc="3815509949" ref="galeria-mariadelpilar"/>
+    <file name="bouquet novia.jpg" crc="4196882779" ref="fullwedding-mariadelpilar"/>
+    <file name="logo-curvas-01-u5673-fr.png" crc="366813086" ref="inicio-mariadelpilar:nosotros-mariadelpilar:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+    <file name="facebook-historia-u5674-fr.png" crc="3817677718" ref="inicio-mariadelpilar:nosotros-mariadelpilar:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+    <file name="twitter-u5675-fr.png" crc="7339319" ref="inicio-mariadelpilar:nosotros-mariadelpilar:servicios-mariadelpilar:partialwedding-mariadelpilar:weddingday-mariadelpilard:galeria-mariadelpilar:contacto-mariadelpilarr:fullwedding-mariadelpilar"/>
+    <file name="galary72x45.png" crc="77838004" ref="galeria-mariadelpilar"/>
+    <file name="1368x45.jpg" crc="358885807" ref="galeria-mariadelpilar"/>
+    <file name="1468x45.jpg" crc="3876608067" ref="galeria-mariadelpilar"/>
+    <file name="1560x90.jpg" crc="4093585170" ref="galeria-mariadelpilar"/>
+    <file name="1675x45.jpg" crc="3823922342" ref="galeria-mariadelpilar"/>
+    <file name="1768x45.jpg" crc="523957399" ref="galeria-mariadelpilar"/>
+    <file name="1868x45.jpg" crc="552917" ref="galeria-mariadelpilar"/>
+    <file name="1981x45.jpg" crc="4048979896" ref="galeria-mariadelpilar"/>
+    <file name="2068x45.jpg" crc="4154746074" ref="galeria-mariadelpilar"/>
+    <file name="galary.png" crc="4231808953" ref="galeria-mariadelpilar"/>
+    <file name="13.jpg" crc="78215586" ref="galeria-mariadelpilar"/>
+    <file name="14.jpg" crc="355751586" ref="galeria-mariadelpilar"/>
+    <file name="15.jpg" crc="270482043" ref="galeria-mariadelpilar"/>
+    <file name="16.jpg" crc="13304405" ref="galeria-mariadelpilar"/>
+    <file name="17.jpg" crc="535492188" ref="galeria-mariadelpilar"/>
+    <file name="18.jpg" crc="3951065964" ref="galeria-mariadelpilar"/>
+    <file name="19.jpg" crc="4098672835" ref="galeria-mariadelpilar"/>
+    <file name="20.jpg" crc="15727166" ref="galeria-mariadelpilar"/>
+  </folder>
+  <file name="inicio-mariadelpilar.html" crc="3811659822" mt="1367008302517"/>
+  <file name="nosotros-mariadelpilar.html" crc="3961715723" mt="1367008289137"/>
+  <file name="index.html" crc="325767676" mt="1366651624421"/>
+  <file name="servicios-mariadelpilar.html" crc="3767778274" mt="1367008289144"/>
+  <file name="partialwedding-mariadelpilar.html" crc="213592982" mt="1367008289146"/>
+  <file name="weddingday-mariadelpilard.html" crc="4160701697" mt="1367008289148"/>
+  <file name="galeria-mariadelpilar.html" crc="3990110607" mt="1367008289155"/>
+  <file name="contacto-mariadelpilarr.html" crc="135957975" mt="1367008289157"/>
+  <file name="fullwedding-mariadelpilar.html" crc="196473651" mt="1367008289164"/>
+</manifest>

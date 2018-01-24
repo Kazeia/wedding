@@ -1,0 +1,68 @@
+/*
+	Propiedad de Jean Pierre
+	Sitio web: www.nologicperu.com
+	Ver demo: www.jeanpix.com
+	Email: carlos@jeanpix.com / jcarlos@nologicperu.com
+	
+*/
+
+
+/* formulario */
+table{
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color: #E9DA06;
+	}
+.ingresos {
+	width:249px;
+	height:25px;
+	margin-bottom:5px;
+	border:1px dashed #999999;}
+.mensaje {
+	width:249px;
+	border:1px dashed #999999;
+	height:80px;
+	margin-bottom:15px;}
+	
+#enviar{
+	width:120px;
+	height:32px;
+	margin-left:35px;
+	padding-right:4px;
+	background:url(btn-contactanos.gif)top left no-repeat;
+	color:#FFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:15px;
+	border:none;}
+	
+input{
+	font-family:"Courier New", Courier, monospace;
+	padding-left:5px;
+	font-size:14px;
+	color: #807F73;}
+
+textarea{
+	font-family:"Courier New", Courier, monospace;
+	padding:5px;
+	font-size:12px;
+	color: #333;}
+
+
+#enviar:hover{
+	color: #FF3;}
+	
+#result {
+	width:280px;
+	padding:10px;
+	margin:auto;
+	margin-top:0px;
+	text-align:center;
+}
+
+#formulario{
+	width:400px;
+	margin:0 auto;}
+/* fin fomulario */
